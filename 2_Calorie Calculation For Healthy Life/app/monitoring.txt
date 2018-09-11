@@ -1,0 +1,27 @@
+12239	hastaken	195kcal	from	erik
+***************
+12348	hastaken	625kcal	from	kuzucevirme
+***************
+12238	hastaken	770kcal	from	dolma
+***************
+12239	hasburned	595kcal	thanks	to	football
+***************
+12348	hasburned	357kcal	thanks	to	golf
+***************
+semih	17	1565kcal	195kcal	595kcal	-1965kcal
+***************
+12239	hastaken	936kcal	from	manti
+***************
+12342	hastaken	1242kcal	from	hamburger
+***************
+12342	hastaken	964kcal	from	kilistava
+***************
+semih	17	1565kcal	1131kcal	595kcal	-1029kcal
+dogan	54	1713kcal	625kcal	357kcal	-1445kcal
+arzu	36	1407kcal	770kcal	0kcal	-637kcal
+semih	17	1565kcal	1131kcal	595kcal	-1029kcal
+dogan	54	1713kcal	625kcal	357kcal	-1445kcal
+semih	17	1565kcal	1131kcal	595kcal	-1029kcal
+semih	19	1849kcal	2206kcal	0kcal	357kcal
+semih	19	1849kcal	2206kcal	0kcal	357kcal
+***************

@@ -1,0 +1,14 @@
+Order: 1 9 
+Neapolitan Salami Soudjouk HotPepper
+AmericanPan Salami Soudjouk Onion
+Softdrink
+Order: 2 35
+AmericanPan Salami HotPepper
+AmericanPan Onion
+Napolitan Soudjouk
+Order: 3 45
+Napolitan Onion
+Napolitan HotPepper
+Order: 4 46
+AmericanPan HotPepper
+Softdrink
